@@ -1,0 +1,101 @@
+Tweet_ID,SentimentText,Hashtags,Retweets,Likes,Timestamp
+1,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",151,787,2025-03-09 03:28:41.794731
+2,Amazing food at this new restaurant! #Foodie #Delicious,"['#Foodie', '#Delicious']",453,926,2025-03-05 03:28:41.794749
+3,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",471,318,2025-03-19 03:28:41.794763
+4,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",389,175,2025-03-04 03:28:41.794771
+5,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",458,178,2025-03-12 03:28:41.794778
+6,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",257,769,2025-03-05 03:28:41.794784
+7,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",99,638,2025-03-12 03:28:41.794790
+8,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",92,506,2025-02-21 03:28:41.794801
+9,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",468,385,2025-03-04 03:28:41.794809
+10,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",64,905,2025-02-28 03:28:41.794815
+11,Just completed a marathon run. Feeling great! #Fitness #Running,"['#Fitness', '#Running']",337,376,2025-03-19 03:28:41.794821
+12,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",168,502,2025-03-10 03:28:41.794828
+13,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",224,421,2025-03-22 03:28:41.794837
+14,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",442,971,2025-02-25 03:28:41.794845
+15,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",223,440,2025-03-16 03:28:41.794855
+16,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",63,996,2025-03-16 03:28:41.794862
+17,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",420,925,2025-03-10 03:28:41.794868
+18,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",382,333,2025-03-02 03:28:41.794874
+19,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",271,912,2025-02-26 03:28:41.794879
+20,Amazing food at this new restaurant! #Foodie #Delicious,"['#Foodie', '#Delicious']",123,911,2025-02-26 03:28:41.794885
+21,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",201,575,2025-03-04 03:28:41.794890
+22,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",393,686,2025-03-12 03:28:41.794895
+23,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",408,156,2025-02-24 03:28:41.794901
+24,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",486,691,2025-02-28 03:28:41.794906
+25,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",72,800,2025-03-21 03:28:41.794912
+26,Just completed a marathon run. Feeling great! #Fitness #Running,"['#Fitness', '#Running']",142,858,2025-03-02 03:28:41.794929
+27,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",109,686,2025-02-22 03:28:41.794935
+28,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",45,894,2025-03-03 03:28:41.794940
+29,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",424,963,2025-03-13 03:28:41.794946
+30,Amazing food at this new restaurant! #Foodie #Delicious,"['#Foodie', '#Delicious']",278,903,2025-03-22 03:28:41.794953
+31,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",253,317,2025-02-24 03:28:41.794962
+32,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",117,213,2025-02-23 03:28:41.794971
+33,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",185,457,2025-02-26 03:28:41.794980
+34,Amazing food at this new restaurant! #Foodie #Delicious,"['#Foodie', '#Delicious']",93,387,2025-03-20 03:28:41.794990
+35,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",311,998,2025-03-04 03:28:41.794995
+36,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",193,19,2025-02-26 03:28:41.795001
+37,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",52,765,2025-03-09 03:28:41.795006
+38,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",189,275,2025-03-04 03:28:41.795011
+39,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",112,581,2025-03-17 03:28:41.795016
+40,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",267,403,2025-02-26 03:28:41.795033
+41,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",437,636,2025-03-02 03:28:41.795040
+42,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",290,6,2025-03-09 03:28:41.795049
+43,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",152,568,2025-03-07 03:28:41.795060
+44,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",227,244,2025-03-06 03:28:41.795069
+45,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",285,574,2025-02-21 03:28:41.795074
+46,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",461,924,2025-03-12 03:28:41.795079
+47,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",261,644,2025-03-17 03:28:41.795084
+48,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",243,840,2025-03-13 03:28:41.795090
+49,Amazing food at this new restaurant! #Foodie #Delicious,"['#Foodie', '#Delicious']",400,421,2025-03-04 03:28:41.795095
+50,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",213,242,2025-02-20 03:28:41.795101
+51,Just completed a marathon run. Feeling great! #Fitness #Running,"['#Fitness', '#Running']",327,862,2025-03-08 03:28:41.795106
+52,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",412,99,2025-03-02 03:28:41.795112
+53,Amazing food at this new restaurant! #Foodie #Delicious,"['#Foodie', '#Delicious']",409,5,2025-03-03 03:28:41.795118
+54,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",155,677,2025-03-07 03:28:41.795123
+55,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",23,253,2025-02-21 03:28:41.795129
+56,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",181,598,2025-02-23 03:28:41.795134
+57,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",19,472,2025-03-12 03:28:41.795139
+58,Amazing food at this new restaurant! #Foodie #Delicious,"['#Foodie', '#Delicious']",254,894,2025-02-24 03:28:41.795144
+59,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",326,912,2025-02-21 03:28:41.795150
+60,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",343,891,2025-02-22 03:28:41.795156
+61,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",273,975,2025-03-10 03:28:41.795162
+62,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",380,59,2025-03-10 03:28:41.795167
+63,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",336,766,2025-03-22 03:28:41.795172
+64,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",106,907,2025-02-28 03:28:41.795179
+65,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",435,577,2025-03-06 03:28:41.795188
+66,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",333,913,2025-03-09 03:28:41.795197
+67,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",347,779,2025-02-24 03:28:41.795207
+68,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",98,296,2025-03-16 03:28:41.795215
+69,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",157,46,2025-03-22 03:28:41.795220
+70,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",417,343,2025-03-10 03:28:41.795227
+71,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",98,29,2025-03-09 03:28:41.795232
+72,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",291,961,2025-03-21 03:28:41.795237
+73,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",482,460,2025-02-25 03:28:41.795242
+74,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",302,440,2025-03-20 03:28:41.795247
+75,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",213,426,2025-03-04 03:28:41.795252
+76,Blockchain is the future. #Crypto #Bitcoin,"['#Crypto', '#Bitcoin']",322,427,2025-02-23 03:28:41.795258
+77,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",188,779,2025-03-12 03:28:41.795264
+78,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",402,393,2025-03-10 03:28:41.795273
+79,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",280,87,2025-03-04 03:28:41.795282
+80,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",266,598,2025-03-15 03:28:41.795291
+81,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",25,6,2025-02-26 03:28:41.795296
+82,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",185,210,2025-03-04 03:28:41.795302
+83,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",297,377,2025-02-25 03:28:41.795307
+84,Just saw a fantastic movie! Highly recommend. #Movies #Entertainment,"['#Movies', '#Entertainment']",268,755,2025-03-09 03:28:41.795312
+85,Just completed a marathon run. Feeling great! #Fitness #Running,"['#Fitness', '#Running']",228,672,2025-03-21 03:28:41.795318
+86,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",204,549,2025-02-26 03:28:41.795332
+87,Electric cars are revolutionizing transportation! #EV #Sustainable,"['#EV', '#Sustainable']",59,830,2025-02-20 03:28:41.795337
+88,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",60,935,2025-03-11 03:28:41.795342
+89,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",321,725,2025-03-11 03:28:41.795347
+90,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",259,883,2025-02-22 03:28:41.795352
+91,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",137,532,2025-03-17 03:28:41.795358
+92,Big game tonight! Who's watching? #Sports #Football,"['#Sports', '#Football']",2,875,2025-03-04 03:28:41.795364
+93,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",253,509,2025-03-03 03:28:41.795370
+94,Working late again! Need coffee. #WorkLife #Hustle,"['#WorkLife', '#Hustle']",214,169,2025-02-28 03:28:41.795375
+95,Just completed a marathon run. Feeling great! #Fitness #Running,"['#Fitness', '#Running']",7,231,2025-03-04 03:28:41.795381
+96,The weather is amazing today! #Sunny #GoodVibes,"['#Sunny', '#GoodVibes']",112,838,2025-03-14 03:28:41.795386
+97,Just completed a marathon run. Feeling great! #Fitness #Running,"['#Fitness', '#Running']",476,6,2025-03-14 03:28:41.795391
+98,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",162,461,2025-03-19 03:28:41.795396
+99,Python is such a powerful language! #Coding #Python,"['#Coding', '#Python']",492,103,2025-03-18 03:28:41.795402
+100,Loving the new tech update! #AI #MachineLearning,"['#AI', '#MachineLearning']",169,846,2025-03-17 03:28:41.795407
